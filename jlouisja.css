@@ -1,0 +1,25 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background-color: Black;
+	}
+h1 {
+	font-size: 32px;
+	font-family: Palatino, 'Palatino Linotype', serif;
+	color: rgb(218,190,206)
+}
+p {
+	text-align: center;
+}
+h2 {
+	color: RoyalBlue;
+	font-size: 2em;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
